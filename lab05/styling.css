@@ -1,0 +1,27 @@
+h1 {
+  font-family: cursive; 
+  color: darkgreen;}
+h2 {
+  text-transform: capitalize;
+  font-family: "times"; 
+  font-size: medium;
+  font-weight: normal;
+  color: black;
+  margin: 25px;}
+
+body {
+  color: black;
+  background-image: url("images/yellow-background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: yellow;}
+ul li {
+  list-style: square;
+}
+p {
+  color: darkred;
+  font-family: fantasy;
+  font-size: x-large;
+  font-weight: normal;
+  margin: 30px;
+}
